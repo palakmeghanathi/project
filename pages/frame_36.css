@@ -1,0 +1,14 @@
+.frame-36 .all {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 128px;
+  color: #000000;
+}
+.frame-36 {
+  border-radius: 158px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 72px 0 73px 7.5px;
+  box-sizing: border-box;
+}

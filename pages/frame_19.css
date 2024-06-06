@@ -1,0 +1,22 @@
+.frame-19 .container-1 {
+  margin: 0 21.7px 150px 0;
+  width: 1078px;
+  height: 1088px;
+}
+.frame-19 .sachet-tandon {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 150px;
+  color: #FFFFFF;
+}
+.frame-19 {
+  border-radius: 50px;
+  background: #A2A0A0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 161px 68.3px 197.3px 90px;
+  width: 1258px;
+  box-sizing: border-box;
+}

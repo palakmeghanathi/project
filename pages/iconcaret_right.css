@@ -1,0 +1,8 @@
+.iconcaret-right .vector {
+  width: 166.7px;
+  height: 200px;
+}
+.iconcaret-right {
+  display: flex;
+  box-sizing: border-box;
+}

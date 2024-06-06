@@ -1,0 +1,15 @@
+.frame-351 .product {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 128px;
+  color: #000000;
+}
+.frame-35 {
+  border-radius: 158px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 72px 14.8px 73px 0;
+  width: 804px;
+  box-sizing: border-box;
+}

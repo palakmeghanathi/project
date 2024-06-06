@@ -1,0 +1,39 @@
+.frame-16 .container-1 {
+  width: 296px;
+  height: 304px;
+}
+.frame-16 .container-2 {
+  display: flex;
+  width: 296px;
+  height: 304px;
+  box-sizing: border-box;
+}
+.frame-16 .container {
+  border-radius: 50px;
+  background: url('../assets/images/rectangle_22.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 165px;
+  display: flex;
+  padding: 716px 63px 98px 63px;
+  width: 1010px;
+  height: 1118px;
+  box-sizing: border-box;
+}
+.frame-16 .daily-mix-3 {
+  margin-right: 0.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 128px;
+  color: #FFFFFF;
+}
+.frame-16 {
+  border-radius: 50px;
+  background: #858585;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 147px 121px 193.3px 121px;
+  width: 1252px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,8 @@
+.iconmedia-step-forward .vector {
+  width: 350px;
+  height: 300px;
+}
+.iconmedia-step-forward {
+  display: flex;
+  box-sizing: border-box;
+}

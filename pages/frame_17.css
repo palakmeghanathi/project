@@ -1,0 +1,23 @@
+.frame-17 .container {
+  margin-bottom: 176px;
+  width: 1078px;
+  height: 1088px;
+}
+.frame-17 .arijit-singh {
+  margin-right: 0.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 150px;
+  color: #FFFFFF;
+}
+.frame-17 {
+  border-radius: 50px;
+  background: #858585;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 114px 90px 218.3px 90px;
+  width: 1258px;
+  box-sizing: border-box;
+}

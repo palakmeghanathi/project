@@ -1,0 +1,8 @@
+.iconrandom .vector {
+  width: 300px;
+  height: 300px;
+}
+.iconrandom {
+  display: flex;
+  box-sizing: border-box;
+}

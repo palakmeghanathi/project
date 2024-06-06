@@ -1,0 +1,25 @@
+.frame-28 .rectangle-20 {
+  border-radius: 50px;
+  background: url('../assets/images/rectangle_202.png') 50% / cover no-repeat;
+  margin-bottom: 198px;
+  width: 1010px;
+  height: 1118px;
+}
+.frame-28 .daily-mix-5 {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 128px;
+  color: #FFFFFF;
+}
+.frame-28 {
+  border-radius: 50px;
+  background: #A2A0A0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 132px 124px 175.3px 124px;
+  width: 1258px;
+  box-sizing: border-box;
+}
